@@ -1,6 +1,9 @@
 streamlit
-llama-index
-llama-index-llms-ollama
-llama-index-embeddings-ollama
+llama-index-core
+llama-index-readers-file
+llama-index-llms-openai-like
+llama-index-embeddings-huggingface
+huggingface-hub
+sentence-transformers
 pypdf
-nltk<3.9.0
+openai
