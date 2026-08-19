@@ -90,8 +90,8 @@ def safe_calculate(expression: str) -> str:
         }
 
         def eval_expr(node):
-            if isinstance(node, ast.Num): 
-                return node.n
+            if isinstance(node, ast.Constant): 
+                return node.value
             elif isinstance(node, ast.BinOp):
                 return allowed_operators[type(node.op)](eval_expr(node.left), eval_expr(node.right))
             elif isinstance(node, ast.UnaryOp):
