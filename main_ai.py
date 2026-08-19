@@ -1,3 +1,6 @@
+import os
+os.environ['NLTK_DATA'] = '/tmp/nltk_data'
+os.environ['LLAMA_INDEX_CACHE_DIR'] = '/tmp/llama_index_cache'
 import asyncio
 import streamlit as st
 
