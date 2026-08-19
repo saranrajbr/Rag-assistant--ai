@@ -1,0 +1,160 @@
+hello 
+hii
+good morning 
+bad morning 
+good night
+saran raj
+hackathon
+staff
+green
+number
+
+Your name is Jarvis. Earth is the third planet from the Sun. It has one natural satellite, commonly called the Moon. About 71 percent of Earth's surface is covered by water, while the remaining area consists mostly of land.
+
+The Pacific Ocean is the largest ocean on Earth. It covers more area than the Atlantic, Indian, Southern, and Arctic oceans combined. The Mariana Trench, located in the western Pacific Ocean, contains the deepest known point in Earth's oceans.
+
+India is the seventh-largest country in the world by area. It has a diverse geography that includes mountains, plains, deserts, forests, and long coastal regions. The Himalayan mountain range forms a natural boundary along much of India's northern region.
+
+Water freezes at 0 degrees Celsius under standard atmospheric pressure. It boils at 100 degrees Celsius under the same conditions. Water is unusual because it expands when it freezes, making ice less dense than liquid water.
+
+Plants use sunlight, carbon dioxide, and water to produce energy through photosynthesis. During this process, plants release oxygen into the atmosphere. Photosynthesis is one of the main processes that supports life on Earth.
+
+The human heart is a muscular organ that pumps blood throughout the body. Blood carries oxygen and nutrients to tissues and transports waste products away from them. An adult human heart normally beats many thousands of times each day.
+
+The Sun is a star located at the center of our solar system. It provides most of the energy that supports life on Earth. Light from the Sun takes approximately eight minutes to reach Earth.
+
+The Moon does not produce its own visible light. It appears bright because it reflects sunlight. The Moon's gravitational influence contributes significantly to the tides in Earth's oceans.
+
+Sound travels through a medium such as air, water, or solid material. It cannot travel through a perfect vacuum because there are no particles available to transmit the vibration.
+
+Trees play an important role in many ecosystems. They provide habitats for animals, help stabilize soil, store carbon, and participate in the movement of water through the environment.
+
+Bees are important pollinators. When bees move between flowers, pollen can be transferred from one flower to another. This process helps many plants reproduce and contributes to agricultural production.
+
+Oceans influence the climate by storing and transporting large amounts of heat. Ocean currents move warm and cold water around the planet and affect weather patterns in many regions.
+
+The Amazon rainforest is one of the world's largest tropical rainforest systems. It contains an enormous variety of plants, animals, insects, and microorganisms. The Amazon River carries a tremendous volume of freshwater into the Atlantic Ocean.
+
+Mount Everest is the highest mountain above sea level. It is located in the Himalayas on the border between Nepal and the Tibet Autonomous Region of China.
+
+The Nile is one of the world's longest river systems. It flows through northeastern Africa and has supported human settlements and agriculture for thousands of years.
+
+The wheel is an ancient invention that transformed transportation and mechanical work. Early wheels were made from materials such as wood, and later designs became increasingly sophisticated.
+
+Paper was developed in ancient China. Over time, papermaking techniques spread to other parts of Asia, the Middle East, Europe, and eventually many other parts of the world.
+
+The printing press dramatically changed the way information could be reproduced and distributed. The development of movable-type printing in Europe contributed to the rapid spread of books and written knowledge.
+
+Electricity is a form of energy associated with the movement or presence of electric charge. Modern societies depend heavily on electrical systems for lighting, communication, transportation, manufacturing, computing, and many other activities.
+
+Computers process information using electronic circuits. Modern computers can perform billions or even trillions of operations per second, depending on their architecture and workload.
+
+The internet is a global network of interconnected computer networks. It allows devices around the world to exchange information using standardized communication protocols.
+
+A website is typically accessed through a web browser. The browser sends requests to servers, receives responses, and displays information to the user.
+
+Satellites orbit Earth for many different purposes. They are used for communication, navigation, weather observation, scientific research, mapping, and environmental monitoring.
+
+GPS uses signals from satellites to help determine the position of a receiver on or near Earth. Smartphones, vehicles, aircraft, ships, and many other systems use satellite navigation.
+
+Modern agriculture uses machinery, irrigation systems, fertilizers, improved seeds, weather information, and other technologies to increase food production.
+
+Rice is a major food crop in many parts of Asia. It grows particularly well in environments where sufficient water is available. Different rice varieties are adapted to different climates and growing conditions.
+
+Coffee is produced from the seeds of plants belonging to the Coffea genus. Coffee plants are cultivated in many tropical and subtropical regions around the world.
+
+The global economy consists of many interconnected markets and industries. Countries exchange goods and services through international trade, while businesses and consumers make decisions based on prices, resources, demand, and expectations.
+
+Inflation refers to a sustained increase in the general level of prices for goods and services. When prices rise faster than income, consumers may find that their purchasing power decreases.
+
+Banks provide services such as accepting deposits, processing payments, and providing loans. They play an important role in the movement of money through an economy.
+
+Transportation connects people, businesses, and regions. Roads, railways, ports, and airports allow goods and people to move between different locations.
+
+Cities often develop around important transportation routes, rivers, ports, natural resources, or economic centers. As populations grow, cities require infrastructure for housing, water, electricity, transportation, waste management, and communication.
+
+Languages change over time. New words can appear because of technological developments, cultural changes, migration, and contact between different communities.
+
+Books can preserve information across generations. Libraries collect and organize books and other forms of recorded knowledge so that people can access them for education, research, and entertainment.
+
+Weather describes atmospheric conditions at a particular time and place. Climate describes patterns of weather observed over much longer periods.
+
+A desert is generally characterized by very low precipitation. Deserts can be hot or cold, and they occur on several continents.
+
+Birds have feathers, beaks, and lightweight skeletons adapted to their way of life. Many bird species can fly, although some species have evolved without the ability to fly.
+
+Whales are mammals rather than fish. They breathe air using lungs and give birth to live young. Different whale species vary greatly in size, diet, and behavior.
+
+Ants live in organized colonies. Different members of a colony can perform different roles, including finding food, caring for young, defending the nest, and reproducing.
+
+Sleep is an important biological process. During sleep, the body and brain perform processes associated with restoration, memory, learning, and regulation of various biological functions.
+
+Exercise can improve physical fitness and support cardiovascular health. Different forms of exercise place different demands on muscles, joints, the heart, and the respiratory system.
+
+Human memory is not a perfect recording of past events. Memories can change over time and can be influenced by later information, emotions, attention, and repeated recall.
+
+Learning involves changes that result from experience, practice, study, or interaction with the environment. Different people can learn the same subject using different strategies.
+
+Fire requires heat, fuel, and an oxidizing agent such as oxygen. Removing one of these elements can prevent or extinguish a fire.
+
+Metals are widely used in construction, transportation, electronics, manufacturing, and everyday products. Their properties vary depending on their chemical composition and structure.
+
+Iron is one of the most widely used metals in the world. Steel, an alloy primarily composed of iron and carbon, is used extensively in buildings, vehicles, machinery, bridges, and tools.
+
+Plastic materials are used in packaging, construction, electronics, medicine, transportation, and many household products. Some plastics can be recycled, although recycling systems and processes vary between regions.
+
+Recycling involves collecting and processing materials so they can be used again. Common recyclable materials include certain types of paper, glass, metals, and plastics.
+
+Forests cover a significant portion of Earth's land surface. They store carbon, influence water cycles, provide habitats, and supply resources such as timber, fruits, fibers, and medicinal compounds.
+
+Climate change can affect ecosystems, agriculture, water availability, sea levels, and human communities. Its effects vary between regions and depend on factors such as geography and local climate.
+
+Renewable energy sources include sunlight, wind, flowing water, and geothermal heat. These sources can be replenished naturally, although their availability varies by location and time.
+
+Solar panels convert sunlight into electrical energy. Their output depends on factors such as sunlight intensity, panel orientation, temperature, and system efficiency.
+
+Wind turbines convert energy from moving air into electrical energy. Large wind farms can contain many turbines connected to an electrical grid.
+
+Electric vehicles use electric motors for propulsion. Many modern electric vehicles store energy in rechargeable battery packs.
+
+Batteries store energy chemically and release it as electrical energy when connected to an appropriate circuit. Different battery technologies have different characteristics, including energy density, cost, lifetime, and charging requirements.
+
+The development of the telephone made it possible to transmit voice over long distances using electrical signals. Communication technologies later expanded to include radio, television, mobile networks, and the internet.
+
+Photography records images using light-sensitive materials or electronic sensors. Digital cameras store image information electronically rather than on photographic film.
+
+Maps represent geographic information using symbols, measurements, and coordinates. Modern digital maps can combine geographic data with satellite imagery, traffic information, and location services.
+
+Time zones divide the world into regions that use standardized local times. They help coordinate activities across different geographic locations.
+
+The metric system is widely used for measuring length, mass, temperature, and other quantities. Common units include meters, kilograms, and degrees Celsius.
+
+A calendar provides a system for organizing days, weeks, months, and years. Different cultures have developed different calendar systems throughout history.
+
+Markets are influenced by supply and demand. When demand increases while supply remains limited, prices can rise. When supply exceeds demand, prices may fall.
+
+Businesses generally aim to provide goods or services that customers are willing to purchase. Revenue comes from sales and other sources, while expenses include the costs required to operate the business.
+
+Education helps people develop knowledge and skills. Schools, universities, vocational institutions, online courses, libraries, and practical experience all contribute to learning.
+
+Scientific research uses systematic methods to investigate questions about the natural and social world. Researchers collect evidence, analyze observations, test hypotheses, and communicate their findings.
+
+Scientific knowledge can change when new evidence provides better explanations. This does not mean that all scientific claims are equally uncertain; evidence and the quality of research determine how strongly conclusions are supported.
+
+History is the study of past events and human societies. Historians use sources such as documents, artifacts, inscriptions, photographs, oral accounts, and archaeological evidence.
+
+Archaeology studies past human activity through physical evidence. Archaeologists may examine buildings, tools, pottery, bones, burials, and other remains.
+
+Transportation technology has changed significantly over thousands of years. Humans have moved from walking and animal-powered transport to ships, railways, automobiles, aircraft, and spacecraft.
+
+Communication has also changed rapidly. Written letters once required days or weeks to cross long distances, while digital messages can travel between distant locations in seconds.
+
+A modern smartphone combines many functions in one device. Depending on the model, it may include cameras, sensors, navigation systems, wireless communication, computing hardware, and access to online services.
+
+Artificial intelligence refers to computational systems designed to perform tasks that normally require capabilities associated with human intelligence. These tasks can include recognizing patterns, understanding language, making predictions, and generating content.
+
+Machine learning is a branch of artificial intelligence in which algorithms learn patterns from data. A trained model can then use those patterns to make predictions or decisions on new data.
+
+Data is used in many fields, including science, business, healthcare, transportation, education, and government. The quality of the data can strongly affect the reliability of conclusions drawn from it.
+
+A database is an organized collection of information that can be stored, searched, updated, and managed using software. Databases are used by websites, businesses, governments, scientific systems, and many other applications.
